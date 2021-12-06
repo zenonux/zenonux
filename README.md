@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zenonux
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning typescript.
+## Hey, Look here! :wave: 
 
-<!---
-zenonux/zenonux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zenonux&show_icons=true&hide_title=true" />
+
+I'm Zeno Nux, a coder from Suzhou, China.
+
+-   :hammer_and_pick: CSS/HTML/JavaScript/Typescript/Vue/Nodejs
+-   :pencil2: VS Code / Navicat
